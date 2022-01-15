@@ -23,7 +23,7 @@
     "gatsby-source-filesystem": "^2.1.26",
     "gatsby-source-prismic-graphql": "3.4.0-beta.1",
     "gatsby-transformer-sharp": "^2.2.16",
-    "marked": "^0.8.0",
+    "marked": "^4.0.10",
     "moment": "^2.24.0",
     "node-sass": "^4.13.1",
     "prismic-reactjs": "^1.1.1",
