@@ -25,7 +25,7 @@
     "gatsby-transformer-sharp": "^2.2.16",
     "marked": "^0.8.0",
     "moment": "^2.24.0",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "prismic-reactjs": "^1.1.1",
     "prop-types": "^15.7.2",
     "react": "^16.9.0",
